@@ -1,1 +1,74 @@
-
+{
+  "channels": [
+    {
+      "channel_number": 8,
+      "name": "80s on 8",
+      "genre": "1980s",
+      "description": "Pop hits from the 1980s MTV era",
+      "target_audience": "Baby boomers, Gen X, Millennials"
+    },
+    {
+      "channel_number": 34,
+      "name": "Lithium",
+      "genre": "Grunge rock, 90s alternative",
+      "description": "Grunge and 90s alternative rock",
+      "target_audience": "Grunge fans, 90s rock fans, Gen X, Millennials"
+    },
+     {
+      "channel_number": 26,
+      "name": "Classic Vinyl",
+      "genre": "1960s, 1970s",
+      "description": "60s/70s classic rock",
+      "target_audience": "Baby boomers, Gen X, Millennials"} 
+      ],
+  "shows": [
+    {
+      "show_name": "80s on 8 with Alan Hunter",
+      "host": "Alan Hunter",
+      "air_time_PDT": "04:00",
+      "day_of_week": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "duration_mins": 360,
+      "channel_number": 8
+    },
+    {
+      "show_name": "80s on 8 with Mark Goodman",
+      "host": "Mark Goodman",
+      "air_time_PDT": "13:00",
+      "day_of_week": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "duration_mins": 360,
+      "channel_number": 8
+    },
+    {
+      "show_name": "Madison On Lithium",
+      "host": "Madison",
+      "air_time": "03:00",
+      "day_of_week": "Monday, Wednesday, Thursday, Friday",
+      "duration": 300,
+      "channel_number": 34
+    },
+    {
+      "show_name": "Kat Corbett On Lithium",
+      "host": "Kat Corbett",
+      "air_time_PDT": "15:00",
+      "day_of_week": "Monday, Tuesday, Thursday, Sunday",
+      "duration_mins": 360,
+      "channel_number": 34
+    },
+    {
+      "show_name": "Classic Vinyl with Earle Bailey",
+      "host": "Earle Bailey",
+      "air_time_PDT": "14:00",
+      "day_of_week": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "duration_mins": 360,
+      "channel_number": 26
+    },
+    {
+      "show_name": "Classic Vinyl with Rachel Steele",
+      "host": "Rachel Steele",
+      "air_time_PDT": "08:00",
+      "day_of_week": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "duration_mins": 360,
+      "channel_number": 26
+    }
+  ]
+}   
