@@ -69,5 +69,5 @@ None
 | Status value | Return status | Description |
 | ------------- | ----------- | ----------- |
 | 200 | Success | Requested data returned successfully |
-| 404 | Error | Specified user record not found |
+| 404 | Error | Specified channel record not found |
 |  ECONNREFUSED | N/A | Service is offline. Start the service and try again. |
