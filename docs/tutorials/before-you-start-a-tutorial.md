@@ -43,7 +43,7 @@ long-term support, also known as _LTS_, version of the Windows, MacOS, or Linux 
 - The following software on your development system:
   - [Git, command line](https://docs.github.com/en/get-started/quickstart/set-up-git)
   - [GitHub Desktop](https://desktop.github.com). This is optional, but recommended.
-    - A fork of the [To-Do-Service repository](https://github.com/UWC2-APIDOC/to-do-service-au25)
+    - A fork of the [tune-guide-api repository](https://github.com/drenn08/tune-guide-api)
     - A [current or LTS version of `node.js`](https://nodejs.org/en/download)
     - Version 0.17.4 of [json-server](https://www.npmjs.com/package/json-server/v/0.17.4)
     - A current copy of the database file. You can get this by syncing your fork.
@@ -64,7 +64,7 @@ long-term support, also known as _LTS_, version of the Windows, MacOS, or Linux 
 
 To test your development system:.
 
-1. Create and checkout a test branch of your fork of the To-Do-service repository.
+1. Create and checkout a test branch of your fork of the tune-guide-api repository.
     Your `GitHub repository workspace` is the directory that contains your fork of
     the `tune-guide-api` repository.
 
