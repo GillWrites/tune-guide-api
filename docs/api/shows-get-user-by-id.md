@@ -32,7 +32,7 @@ Returns an array of  [`show`](shows.md) objects that contains only the show spec
 
 ```shell
 
-{server_url}/show/{id}
+{server_url}/shows/{id}
 ```
 
 ## Parameters
