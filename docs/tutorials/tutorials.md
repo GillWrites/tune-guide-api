@@ -25,7 +25,7 @@ last_updated: "2025-09-03"
 # markdownlint-enable
 ---
 
-# Tutorials
+# tutorials
 
 These tutorials are available to help you start using the **Tune Guide API**.
 
