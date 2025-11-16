@@ -67,5 +67,5 @@ Sample `shows` resource
 
 ## Read operations
 
-* [Get all ushows](shows-get-all-users.md)
+* [Get all shows](shows-get-all-users.md)
 * [Get show by ID](shows-get-user-by-id.md)
