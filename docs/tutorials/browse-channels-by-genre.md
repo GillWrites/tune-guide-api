@@ -69,8 +69,8 @@ topic on the development system you'll use for this tutorial.
     - **Key:** `genre`
     - **Value:** `Pop`
   
-The query parameter filters the results by appending `?firstName=value` to the URL. Replace `value`
-with the first name you want to find. Postman automatically formats the URL with your query parameter.
+The query parameter filters the results by appending `?genre=Pop` to the URL. Replace `value`
+with the genre you want to find. Postman automatically formats the URL with your query parameter.
 
 6. In the Postman app, choose **Send** to make the request.
 7. The system returns only genres whose name exactly matches "Pop." The match is case-sensitive
@@ -92,12 +92,12 @@ your favorite programming language.
 To do this, adapt the values from the tutorial to the properties
 and arguments that the language uses to make REST API calls.
 
-## Verify your task
+## Verify your genre
 
-Confirm that the service saved your task correctly by retrieving
+Confirm that the service saved your genre correctly by retrieving
 it using a `GET` request with the same URL and the `id` from your
-response `{base_url}/tasks/5`. The response should include the
-same task details you submitted.
+response `{base_url}/channels/4`. The response should include the
+same genre details you submitted.
 
 ## Troubleshooting common errors
 
